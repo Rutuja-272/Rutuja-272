@@ -33,5 +33,4 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-⭐️ From [@BRdhanani](https://github.com/BRdhanani)
 ![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutuja-272&theme=ambient_gradient&show_icons=true)
